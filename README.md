@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/vikasharma___" target="blank"><img src="https://img.shields.io/twitter/follow/vikasharma___?logo=twitter&style=for-the-badge" alt="vikasharma___" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 **Next.js**
 
 - 💬 Ask me about **MERN stack**
 
